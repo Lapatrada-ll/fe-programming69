@@ -13,7 +13,8 @@ const getGrade= (score=0)=>{
 }
 console.log(getGrade(85));
 console.log(getGrade(72));
-console.log(getGrade(44));
-console.log(getGrade());
+console.log(getGrade(60));
+console.log(getGrade(50));
+console.log(getGrade(40));
 
 
