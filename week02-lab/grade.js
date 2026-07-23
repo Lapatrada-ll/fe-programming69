@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const getGrade= (score=0)=>{
     if(score>=80){
         return "A";
@@ -19,8 +18,4 @@ console.log(getGrade(50));
 console.log(getGrade(40));
 
 
-=======
-let student={
-    name
-}
->>>>>>> a5bedb6 (fework02)
+
